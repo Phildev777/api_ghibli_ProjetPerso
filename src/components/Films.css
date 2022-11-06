@@ -1,0 +1,48 @@
+.fondImg {
+    background: #FF6B44;
+    background: -moz-linear-gradient(center, #FF6B44 0%, #FFB93B 55%, #F9F871 100%);
+    background: -webkit-linear-gradient(center, #FF6B44 0%, #FFB93B 55%, #F9F871 100%);
+    background: linear-gradient(ellipse at center, #FF6B44 0%, #FFB93B 55%, #F9F871 100%);
+    width: 100%;
+
+
+}
+
+
+.description {
+    font-size: 20px;
+    color: beige;
+    text-shadow: -2px 1px 2px black;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.ImgFilms {
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.titre {
+    text-align: center;
+    color: rgb(248, 233, 23);
+    text-shadow: -2px 1px 2px#000147;
+}
+
+.date {
+
+    color: #f8cd0f;
+    text-shadow: -2px 1px 2px#000147;
+}
+
+li {
+    margin-left: 40px;
+}

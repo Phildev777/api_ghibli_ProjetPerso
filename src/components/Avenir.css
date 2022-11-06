@@ -1,0 +1,14 @@
+.InfosD {
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    color: #ffbb00;
+    text-shadow: -1px 1px 2px#2b2103;
+}
+
+.AutresInfos {
+    text-align: center;
+    color: #ffbb00;
+    text-shadow: -1px 1px 2px#2b2103;
+}
